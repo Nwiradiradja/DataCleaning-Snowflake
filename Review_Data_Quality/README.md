@@ -16,5 +16,9 @@ Image 2:
 Image 3:
 ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/Review_Data_Quality/Review3.png?raw=true)
 Query Details Video/Showcase:
-https://github.com/Nwiradiradja/DataCleaning-Snowflake/assets/74621546/db150084-531a-4fee-9fd4-d362c8b2197e
+
+
+
+
+https://github.com/Nwiradiradja/DataCleaning-Snowflake/assets/74621546/15be93e3-ceb1-4bad-8eab-b1dffefdc6cc
 
