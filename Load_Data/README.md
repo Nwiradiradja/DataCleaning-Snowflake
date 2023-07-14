@@ -4,3 +4,5 @@
 * Creating Customer Table
 * Inserting data into Customer Table
 * Checking to make sure the data was successfully loaded
+
+## Explanation
