@@ -7,3 +7,4 @@
 
 ## Tasks
 * [Loading Project Data](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Load_Data)
+* Investigate Data Quality Issues
