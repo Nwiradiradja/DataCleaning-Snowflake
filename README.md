@@ -6,4 +6,4 @@
 * Build a view to scale the work, then query data to find list of inactive customers
 
 ## Tasks
-* Loading Project Data
+* [Loading Project Data](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Load_Data)
