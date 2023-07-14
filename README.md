@@ -7,4 +7,4 @@
 
 ## Tasks
 * [Loading Project Data](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Load_Data)
-* Review Data Quality Issues
+* [Review Data Quality Issues](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Review_Data_Quality)
