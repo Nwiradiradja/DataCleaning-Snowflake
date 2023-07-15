@@ -10,11 +10,12 @@
 * Just for extra I also separated the middle initial from the first name by adding an additional SPLIT_PART() function but using the First_Name column we made and setting the delimeter as a whitespace as seen on image 5
 
 Image 1:
-
+![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/Extract_Names/Ex1.png?raw=true)
 Image 2:
-
+![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/Extract_Names/Ex2.png?raw=true)
 Image 3:
-
+![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/Extract_Names/Ex3.png?raw=true)
 Image 4:
-
+![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/Extract_Names/Ex4.png?raw=true)
 Image 5:
+![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/Extract_Names/Ex5.png?raw=true)
