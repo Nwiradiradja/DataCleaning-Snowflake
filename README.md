@@ -10,3 +10,4 @@
 * [Review Data Quality Issues](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Review_Data_Quality)
 * [Removing Unwanted Characters](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/RemoveChar)
 * [Extracting First and Last Name from Name Column](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Extract_Names)
+* Clean and Standardize Phone Column
