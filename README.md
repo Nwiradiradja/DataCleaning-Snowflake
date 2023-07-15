@@ -9,4 +9,4 @@
 * [Loading Project Data](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Load_Data)
 * [Review Data Quality Issues](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Review_Data_Quality)
 * [Removing Unwanted Characters](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/RemoveChar)
-* Extracting First and Last Name from Name column
+* Extracting First and Last Name from Name Column
