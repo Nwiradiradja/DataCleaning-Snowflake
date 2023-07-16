@@ -4,6 +4,7 @@
 * Extracting dates from text fields then using SQL date functions for comparisons and calculations
 * Identify and correct missing and duplicate data
 * Build a view to scale the work, then query data to find list of inactive customers
+* All tasks listed below were done in chronological order
 
 ## Tasks
 * [Loading Project Data](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Load_Data)
