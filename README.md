@@ -11,3 +11,4 @@
 * [Removing Unwanted Characters](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/RemoveChar)
 * [Extracting First and Last Name from Name Column](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Extract_Names)
 * [Clean and Standardize Phone Column](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Phone)
+* [Extracting Dates from Columns](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Date)
