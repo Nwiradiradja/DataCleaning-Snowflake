@@ -12,4 +12,4 @@
 * [Extracting First and Last Name from Name Column](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Extract_Names)
 * [Clean and Standardize Phone Column](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Phone)
 * [Extracting Dates from Columns](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Date)
-* Adding a Computed Column for the Number of Days since the Last Transaction
+* [Adding a Computed Column for the Number of Days since the Last Transaction](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/ComputedColumn)
