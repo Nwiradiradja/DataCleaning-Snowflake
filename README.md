@@ -13,4 +13,5 @@
 * [Clean and Standardize Phone Column](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Phone)
 * [Extracting Dates from Columns](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Date)
 * [Adding a Computed Column for the Number of Days since the Last Transaction](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/ComputedColumn)
-* Calculating Customer's Age
+* [Calculating Customer's Age](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/ComputeAge)
+* Handling Missing Values
