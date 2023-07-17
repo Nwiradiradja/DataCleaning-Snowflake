@@ -27,3 +27,5 @@
 ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/After.png?raw=true)
 ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/After2.png?raw=true) ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/After3.png?raw=true) 
 
+### Visualization for Transactions
+![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/TransactionTrend.png?raw=true)
