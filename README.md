@@ -17,4 +17,4 @@
 * [Calculating Customer's Age](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/ComputeAge)
 * [Handling Missing Values](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Missing_Values)
 * [Removing Duplicates](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Remove_Duplicates)
-* Exporting a list of INACTIVE Customers
+* [Creating a View and Exporting a list of INACTIVE Customers](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Create_View_Export_List)
