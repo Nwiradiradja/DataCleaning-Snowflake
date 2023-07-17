@@ -28,8 +28,11 @@
 ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/After2.png?raw=true) ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/After3.png?raw=true) 
 
 ## Data Visualization
-### Transaction Upsurge
+### Surging Transactions: Visualizing the Upward Trend (Line Graph)
 ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/TransactionTrend.png?raw=true)
 
-### Customers with associated Companies, Number of Days since Last Transaction
+### Customer-Company Associations: Days Since Last Transaction (Heat Grid)
 ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/HeatGrid.png?raw=true)
+
+### Customer Engagement: Days Since Last Transaction (Bar Graph)
+![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/Bar.png?raw=true)
