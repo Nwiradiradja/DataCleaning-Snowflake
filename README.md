@@ -24,5 +24,5 @@
 
 ### AFTER
 ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/After.png?raw=true)
-![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/After2.png?raw=true)
+![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/After2.png?raw=true) ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/After3.png?raw=true) 
 
