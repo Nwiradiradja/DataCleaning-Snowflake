@@ -17,7 +17,7 @@
 Image 1:
 ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/Remove_Duplicates/Dup1.png?raw=true)
 Transaction:
-
+![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/Remove_Duplicates/TransactionFactor.png?raw=true)
 Image 2:
 ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/Remove_Duplicates/Dup2.png?raw=true)
 Image 3:
