@@ -18,3 +18,11 @@
 * [Handling Missing Values](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Missing_Values)
 * [Removing Duplicates](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Remove_Duplicates)
 * [Creating a View and Exporting a list of INACTIVE Customers](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Create_View_Export_List)
+
+### BEFORE
+![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/Before.png?raw=true)
+
+### AFTER
+![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/After.png?raw=true)
+![](![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/After2.png?raw=true)
+
