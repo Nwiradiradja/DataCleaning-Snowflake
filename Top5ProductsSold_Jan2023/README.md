@@ -23,3 +23,11 @@ Image 4:
 ![](https://github.com/Nwiradiradja/Snowflake-Project/blob/main/Top5ProductsSold_Jan2023/Top4.png?raw=true)
 Image 5:
 ![](https://github.com/Nwiradiradja/Snowflake-Project/blob/main/Top5ProductsSold_Jan2023/Top5.png?raw=true)
+
+### BAR GRAPH:
+![](https://github.com/Nwiradiradja/Snowflake-Project/blob/main/Top5ProductsSold_Jan2023/Top5Bar.png?raw=true)
+
+### LINE GRAPH:
+![](https://github.com/Nwiradiradja/Snowflake-Project/blob/main/Top5ProductsSold_Jan2023/Top5Line.png?raw=true)
+
+* Shows how many orders per product which is color coded, as well as the total quantity sold for that product
