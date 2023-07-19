@@ -30,8 +30,6 @@
 ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/After2.png?raw=true) ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/After3.png?raw=true) 
 
 ## Data Visualization
-### Surging Transactions: Visualizing the Upward Trend (Line Graph)
-![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/TransactionTrend.png?raw=true)
 
 ### Customer-Company Associations: Days Since Last Transaction (Heat Grid)
 ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/HeatGrid.png?raw=true)
@@ -40,5 +38,4 @@
 ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/Bar.png?raw=true)
 
 ### TOP 5 PRODUCTS SOLD: JAN 2023
-![](https://github.com/Nwiradiradja/Snowflake-Project/blob/main/Top5ProductsSold_Jan2023/Top5Line.png?raw=true)
 ![](https://github.com/Nwiradiradja/Snowflake-Project/blob/main/Top5ProductsSold_Jan2023/Top5Bar.png?raw=true)
