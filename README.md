@@ -4,7 +4,8 @@
 * Extracting dates from text fields then using SQL date functions for comparisons and calculations
 * Identify and correct missing and duplicate data
 * Build a view to scale the work, then query data to find list of inactive customers
-* Utilize Data Visualization to show trends 
+* Utilize Data Visualization to show trends
+* Combining data extraction, data cleaning and data visualization to identify the top 5 products sold in 2023
 * All tasks listed below were done in chronological order
 
 ## Tasks
