@@ -38,3 +38,7 @@
 
 ### Customer Engagement: Days Since Last Transaction (Bar Graph)
 ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/Bar.png?raw=true)
+
+### TOP 5 PRODUCTS SOLD: JAN 2023
+![](https://github.com/Nwiradiradja/Snowflake-Project/blob/main/Top5ProductsSold_Jan2023/Top5Line.png?raw=true)
+![](https://github.com/Nwiradiradja/Snowflake-Project/blob/main/Top5ProductsSold_Jan2023/Top5Bar.png?raw=true)
