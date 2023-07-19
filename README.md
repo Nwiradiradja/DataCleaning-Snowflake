@@ -19,7 +19,7 @@
 * [Handling Missing Values](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Missing_Values)
 * [Removing Duplicates](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Remove_Duplicates)
 * [Creating a View and Exporting a list of INACTIVE Customers](https://github.com/Nwiradiradja/DataCleaning-Snowflake/tree/main/Create_View_Export_List)
-* Using Data Cleaning Techniques and Data Visualization to Find Top 5 Products sold in Jan 2023
+* [Using Data Cleaning Techniques and Data Visualization to Find Top 5 Products sold in Jan 2023](https://github.com/Nwiradiradja/Snowflake-Project/tree/main/Top5ProductsSold_Jan2023)
 
 ### BEFORE
 ![](https://github.com/Nwiradiradja/DataCleaning-Snowflake/blob/main/Before.png?raw=true)
